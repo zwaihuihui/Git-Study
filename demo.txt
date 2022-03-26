@@ -2,7 +2,7 @@ public class nihao{
 	public static void main(String[]args){
 		//write by zhangwei one 
 		System.out.println("你好");
-
+		//change by git one;
 	}
 
 }
