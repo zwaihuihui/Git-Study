@@ -6,3 +6,6 @@ public class nihao{
 	}
 
 }
+
+
+SSH免密登录设置。
